@@ -66,7 +66,7 @@ This project demonstrates:
 Flame Sensors → Arduino Processing → Motor Driver → Navigation
                                       ↓
                               Servo + Pump Activation
-
+```
 
 ## 👨‍💻 Team Members
 - **Aditya Singh Bagri (Me)**
