@@ -2,7 +2,7 @@
 ### Autonomous Fire Detection & Suppression System using Arduino
 
 <p align="center">
-  <img src="media/images/robot.jpg" width="500" alt="Fire Fighting Robot">
+  <img src="Media/Images/robot.jpg" width="500" alt="Fire Fighting Robot">
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ Fire hazards in homes, industries, and public spaces can escalate rapidly if not
 
 <p align="center">
   <a href="https://youtu.be/ZcBEDuBqP5Y">
-    <img src="media/images/robot.jpg" alt="Watch Demo Video" width="600">
+    <img src="Media/Images/robot.jpg" alt="Watch Demo Video" width="600">
   </a>
 </p>
 
